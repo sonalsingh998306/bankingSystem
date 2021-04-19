@@ -1,6 +1,6 @@
 # Banking-App
-This banking app is created to complete the task#2 of Graduate Rotational Internship Program(GRIP) by The Sparks Foundation i.e., Basic Banking System in an android app.
+This banking app task#2 of Graduate Rotational Internship Program(GRIP) by The Sparks Foundation i.e., Basic Banking System in an android app using sql database.
 
-By using this app,User can see their bank details and can transfer money to other user's. Then, User can able see their transactions history.
+By using this app,User can check out their account balance and can transfer money to other user's. It also stores transactions history.
 
-Working Video Link: https://www.youtube.com/watch?v=nn7saG69F5s
+Working Video Link: 
